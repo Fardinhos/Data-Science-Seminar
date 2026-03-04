@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: Data-Science-Seminar
+version: 1.0.1
+doi: 10.5281/zenodo.18865457
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Afzalzada
+    given-names: Fardin
+date-released: 2026-03-04
+license: MIT
